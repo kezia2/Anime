@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://images.alphacoders.com/736/736461.png");
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+*{
+    font-size: 35px;
+    text-align: center;
+}
+button{
+    background-color:pink;
+    border-radius: 15px;
+}
+a{
+    text-decoration:none;
+}

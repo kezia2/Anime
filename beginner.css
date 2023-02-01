@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://images.pexels.com/photos/11961892/pexels-photo-11961892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+*{
+    font-size: 35px;
+    
+    text-align: center;
+}
+button{
+    background-color:pink;
+    border-radius: 15px;
+}
+a{
+    text-decoration:none;
+}

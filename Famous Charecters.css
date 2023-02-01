@@ -1,0 +1,17 @@
+.hii{
+    text-align: center;
+    background-color: aqua;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+nav{
+background-color: rgb(6, 90, 216);
+height: 50px;
+}
+li{
+display:inline;
+padding: 30px;
+}
+a{
+text-decoration: none;
+}
